@@ -2,8 +2,8 @@
     overflow:hclassden;
     background-color:rgba(255, 255, 255, 1);
     opacity:1;
-    width:595px;
-    height:842px;
+
+
     position:absolute;
 }
 .hello {
@@ -791,5 +791,98 @@
 }
 
 
+@media(max-width:420px){
+
+.div_hobby { 
+    opacity:1;
+    width:217px;
+    height:168px;
+    position:absolute;
+    left:52px;
+    top:1234px;   
+}
+.lang { 
+    opacity:1;
+    width:157px;
+    height:75px;
+    position:absolute;
+    left:52px;
+    top:1142px;
+}
+.w_exp { 
+    opacity:1;
+    width:246px;
+    height:183px;
+    position:absolute;
+    left:52px;
+    top:943px;
+
+}
+
+.right_img_rect { 
+    opacity:1;
+    width:375px;
+    height:375px;
+    position:absolute;
+    left:50px;
+    top:146px;}
 
 
+    .hello {
+        width: 200px;
+        height: 174px;
+        left: 220px;
+        top: 150px;
+
+        }
+.div_fig { 
+        left:0px;
+        top:170px;}
+
+
+
+.mail { 
+    opacity:1;
+    width:220px;
+    height:30px;
+    position:absolute;
+    left:70px;
+    top:351px;}
+
+.tlf { 
+    opacity:1;
+    width:220px;
+    height:30px;
+    position:absolute;
+    left:70px;
+    top:461px;}
+
+.site { 
+    opacity:1;
+    width:220px;
+    height:30px;
+    position:absolute;
+    left:50px;
+    top:401px;}
+
+.main_ed { 
+    opacity:1;
+    width:205px;
+    height:155px;
+    position:absolute;
+    left:53px;
+    top:541px;}
+
+
+.div_skills { 
+    opacity:1;
+    width:203px;
+    height:185px;
+    position:absolute;
+    left:53px;
+    top:720px;}
+
+
+    .main_img {
+        top: 47px;
+}
